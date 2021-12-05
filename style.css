@@ -1,0 +1,28 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+.meraBtn {
+   text-align: center;
+    margin-top: 30px;
+}
+.allInp input{
+    width: 80% ;
+    border-top:none ;
+    border-right:none ;
+    border-left:none ;
+    padding-left: 5px;
+    padding-bottom: 5px;
+}
+.allInp input:focus{
+    outline: none;
+}
+.mybTn{
+    /* border: 2px solid black; */
+    width: 40%;
+    text-align: center;
+}
+
+
